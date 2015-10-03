@@ -1,11 +1,5 @@
-#crest{
 
- opacity: 0.1;
- top:50px;
- position: fixed;
-}
-
-#button1{
+.button1{
 	border-style: sold;
 	border-radius 5px;
 	border-color:red;
