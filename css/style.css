@@ -1,25 +1,33 @@
 
 .button1{
 	border:2px solid;
-	border-color:red;
-	padding:20px;}
+	border-color:#e1f5ea;
+	padding:20px;
+	text-decoration:none;
+}
+
+
 .button2{
 	border:2px solid;
-	border-color:red;
+	border-color:#e1f5ea;
 	padding:20px;
+	text-decoration:none;
 }
 .button3{
 	border:2px solid;
-	border-color:red;
+	border-color:#e1f5ea;
 	padding:20px;
+	text-decoration:none;
 }
 .button4{
 	border:2px solid;
-	border-color:red;
+	border-color:#e1f5ea;
 	padding:20px;
+	text-decoration:none;
 }
 .button5{
 	border:2px solid;
-	border-color:red;
+	border-color:#e1f5ea;
 	padding:20px;
+	text-decoration:none;
 }
